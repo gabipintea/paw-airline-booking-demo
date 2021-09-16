@@ -1,0 +1,11 @@
+F:\My Files\ASE\LICENTA\AN2 SEM2\Airline\paw-airline-booking-demo\FastTicket\bin\Debug\FastTicket.exe.config
+F:\My Files\ASE\LICENTA\AN2 SEM2\Airline\paw-airline-booking-demo\FastTicket\bin\Debug\FastTicket.exe
+F:\My Files\ASE\LICENTA\AN2 SEM2\Airline\paw-airline-booking-demo\FastTicket\bin\Debug\FastTicket.pdb
+F:\My Files\ASE\LICENTA\AN2 SEM2\Airline\paw-airline-booking-demo\FastTicket\obj\Debug\FastTicket.csprojAssemblyReference.cache
+F:\My Files\ASE\LICENTA\AN2 SEM2\Airline\paw-airline-booking-demo\FastTicket\obj\Debug\FastTicket.FastCalculatorControl.resources
+F:\My Files\ASE\LICENTA\AN2 SEM2\Airline\paw-airline-booking-demo\FastTicket\obj\Debug\FastTicket.MainForm.resources
+F:\My Files\ASE\LICENTA\AN2 SEM2\Airline\paw-airline-booking-demo\FastTicket\obj\Debug\FastTicket.Properties.Resources.resources
+F:\My Files\ASE\LICENTA\AN2 SEM2\Airline\paw-airline-booking-demo\FastTicket\obj\Debug\FastTicket.csproj.GenerateResource.cache
+F:\My Files\ASE\LICENTA\AN2 SEM2\Airline\paw-airline-booking-demo\FastTicket\obj\Debug\FastTicket.csproj.CoreCompileInputs.cache
+F:\My Files\ASE\LICENTA\AN2 SEM2\Airline\paw-airline-booking-demo\FastTicket\obj\Debug\FastTicket.exe
+F:\My Files\ASE\LICENTA\AN2 SEM2\Airline\paw-airline-booking-demo\FastTicket\obj\Debug\FastTicket.pdb
